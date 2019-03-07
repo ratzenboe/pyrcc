@@ -25,3 +25,13 @@ A demonstration of how to use this is shown in demo.py, measuring the AMI (adjus
 
 NOTE:
 - The authors report a final AMI of 0.848 on the pendigit dataset. The current code achieves ~0.79. This is still pretty good, but I am trying to find the issue.
+
+## Installation
+Download pyrcc to a directory of your choice via
+```
+git clone https://github.com/ratzenboe/cluster-kit.git
+```
+change into the created directory and execute the setup script
+```
+python setup.py install
+```
