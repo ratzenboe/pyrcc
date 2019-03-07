@@ -29,9 +29,9 @@ NOTE:
 ## Installation
 Download pyrcc to a directory of your choice via
 ```
-git clone https://github.com/ratzenboe/cluster-kit.git
+git clone https://github.com/ratzenboe/pyrcc.git
 ```
-change into the created directory and execute the setup script
+change into the created directory `cd pyrcc` and execute the setup script
 ```
 python setup.py install
 ```
